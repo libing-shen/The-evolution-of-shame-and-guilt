@@ -1,0 +1,8 @@
+The population size for this simulation is: 100 
+The error rate for this simulation is: 0.1 
+The output directory for this simulation is: /home/lbshen/simulation/b1.33c/pop100/e010 
+Wed Jan 17 00:35:17 2018	generous_TFT vs. TFT_with_trembling_hand
+Wed Jan 17 05:08:41 2018	generous_TFT vs. shame_driven_hiding
+Wed Jan 17 15:58:15 2018	generous_TFT vs. shame_driven_denying
+Wed Jan 17 20:49:15 2018	generous_TFT vs. guilt_driven_amending
+Thu Jan 18 01:41:49 2018	generous_TFT vs. Pavlov
